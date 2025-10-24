@@ -11,8 +11,6 @@ Built using HTML, CSS, and JavaScript, it provides a clean and responsive interf
    * Responsive design for mobile and desktop
   
    * Fully frontend-based (no backend required)
-# Overview
-  Users can open the app in a browser, type messages, and view them immediately. The app is lightweight, fast, and easy to use.
 
 # Tech Used
   Frontend: HTML, CSS, JavaScript
